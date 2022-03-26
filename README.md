@@ -1,4 +1,4 @@
-# Aspihospital
+#  sdasdas
 [[Sala 5]]
 -entras a la habitacion 5, te encontras con una habitacion llena de simbolos y letras raros, cada letra tiene un simbolo ese simbolo representa una ficha de ajedrez. Encontras un papel con un dibujo de "un tablero" mal hecho o lineas que parecen no tener un sentido.
 
